@@ -110,5 +110,5 @@ I believe in the power of understanding fundamental concepts deeply before movin
 ---
 
 <div align="center">
-  <em>Exploring the future of artificial intelligence, one algorithm at a time</em>
+  <em>Exploring the future of artificial intelligence controlling u.</em>
 </div>
