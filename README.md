@@ -1,15 +1,15 @@
 # Ali Hamza
 
 > **Exploring the frontiers of artificial intelligence and building intelligent solutions**  
-> *B.S. Artificial Intelligence Student passionate about AI algorithms, machine learning, and innovative problem-solving*
+> *AI Transformation Head at Edversity, passionate about AI algorithms, machine learning, and innovative problem-solving*
 
-I'm a dedicated Artificial Intelligence student with a strong foundation in both theoretical concepts and practical implementation. Currently pursuing my B.S. in AI, I'm deeply interested in search algorithms, game theory, optimization techniques, and their real-world applications. My projects demonstrate hands-on experience with fundamental AI concepts, from implementing classic algorithms to exploring modern machine learning approaches.
+I'm a dedicated Artificial Intelligence professional with a strong foundation in both theoretical concepts and practical implementation. Currently serving as AI Transformation Head at Edversity, I'm deeply interested in search algorithms, game theory, optimization techniques, and their real-world applications. My projects demonstrate hands-on experience with fundamental AI concepts, from implementing classic algorithms to exploring modern machine learning approaches.
 
 ---
 
 ## 🚀 Quick Profile
 
-- **Current Role**: B.S. Artificial Intelligence Student
+- **Current Role**: AI Transformation Head at Edversity
 - **Location**: Pakistan
 - **Focus Areas**: AI Algorithms, Machine Learning, Algorithm Design, Python Development
 - **Collaboration Interests**: AI research, open-source projects, algorithm optimization, academic collaboration
@@ -66,11 +66,21 @@ Modern, minimalist portfolio website featuring dark theme design system, smooth 
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliHamz10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliHamz10&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&ring_color=ff6b6b" alt="GitHub Stats" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliHamz10&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHamz10&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=ffffff" alt="GitHub Streak" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamz10&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamz10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliHamz10&theme=radical" alt="Profile Details" />
+</div>
 
 ---
 
