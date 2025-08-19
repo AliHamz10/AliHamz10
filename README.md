@@ -1,70 +1,66 @@
 # Ali Hamza
 
-> **Building intelligent solutions that make a difference**  
-> *Full-Stack Developer & AI Enthusiast crafting modern web applications with cutting-edge technologies*
+> **Exploring the frontiers of artificial intelligence and building intelligent solutions**  
+> *B.S. Artificial Intelligence Student passionate about AI algorithms, machine learning, and innovative problem-solving*
 
-I'm a passionate developer focused on creating impactful, scalable solutions that solve real-world problems. With expertise in modern web development and artificial intelligence, I build applications that combine technical excellence with user-centric design. Currently working at Edversity, I'm constantly exploring new technologies and methodologies to deliver exceptional user experiences.
+I'm a dedicated Artificial Intelligence student with a strong foundation in both theoretical concepts and practical implementation. Currently pursuing my B.S. in AI, I'm deeply interested in search algorithms, game theory, optimization techniques, and their real-world applications. My projects demonstrate hands-on experience with fundamental AI concepts, from implementing classic algorithms to exploring modern machine learning approaches.
 
 ---
 
 ## 🚀 Quick Profile
 
-- **Current Role**: Full-Stack Developer at Edversity
+- **Current Role**: B.S. Artificial Intelligence Student
 - **Location**: Pakistan
-- **Focus Areas**: Web Development, AI Integration, Financial Technology
-- **Collaboration Interests**: Open-source projects, AI research, fintech innovation
+- **Focus Areas**: AI Algorithms, Machine Learning, Algorithm Design, Python Development
+- **Collaboration Interests**: AI research, open-source projects, algorithm optimization, academic collaboration
 - **Contact**: [LinkedIn](https://www.linkedin.com/in/alihamz/) | [GitHub](https://github.com/AliHamz10)
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### **Languages & Frameworks**
-- **Frontend**: React 19, Next.js 15, JavaScript (ES6+), HTML5, CSS3
-- **Backend**: Node.js, Python 3.7+
-- **Styling**: Tailwind CSS, PostCSS, Custom Design Systems
+### **Programming & Development**
+- **Languages**: Python 3.7+, JavaScript (ES6+), HTML5, CSS3
+- **AI Libraries**: NumPy, Algorithm Implementation from scratch
+- **Web Technologies**: React, Next.js, Tailwind CSS
+- **Tools**: Git, GitHub, Jupyter Notebooks
 
-### **Cloud & Infrastructure**
-- **Deployment**: Vercel, Netlify
-- **Databases**: PostgreSQL with Prisma ORM
-- **Authentication**: Clerk (Multi-factor support)
+### **Artificial Intelligence & Algorithms**
+- **Search Algorithms**: A*, Breadth-First Search, Depth-First Search, Iterative Deepening DFS
+- **Game Theory**: Minimax Algorithm, Alpha-Beta Pruning, Monte Carlo Tree Search
+- **Optimization**: Hill Climbing, Beam Search, Expectimax
+- **Problem Solving**: 8-puzzle, Vacuum Cleaner World, Pathfinding
 
-### **AI & Machine Learning**
-- **AI Integration**: Google Gemini API
-- **Data Processing**: NumPy, Algorithm Implementation
-- **Search Algorithms**: A*, Minimax, Alpha-Beta Pruning, Monte Carlo Tree Search
-
-### **Development & Tools**
-- **Build Tools**: Turbopack, Webpack
-- **Code Quality**: ESLint, Zod (Schema Validation)
-- **Version Control**: Git, GitHub
-- **Performance**: Bundle analysis, Image optimization
+### **Data Structures & Mathematics**
+- **Data Manipulation**: NumPy arrays, dictionaries, lists, matrices
+- **Mathematical Operations**: Statistical calculations, matrix operations, array reshaping
+- **Algorithm Analysis**: Performance evaluation, complexity analysis, optimization techniques
 
 ---
 
-## 🏆 Career Highlights
+## 🏆 Academic & Project Highlights
 
-- **Built comprehensive finance management platform** with AI-powered receipt scanning and real-time analytics
-- **Implemented 10+ AI algorithms** from scratch including search strategies, game theory, and optimization techniques
-- **Developed responsive portfolio website** achieving 95+ Lighthouse performance score with WCAG 2.1 AA compliance
-- **Created modular, scalable architecture** using modern React patterns and server components
-- **Integrated enterprise-grade security** with rate limiting, data encryption, and secure authentication
+- **Implemented 10+ fundamental AI algorithms** from scratch, demonstrating deep understanding of algorithmic concepts
+- **Built comprehensive AI lab portfolio** covering search strategies, game theory, and optimization methods
+- **Developed finance management platform** integrating AI-powered receipt scanning and real-time analytics
+- **Created responsive portfolio website** achieving 95+ Lighthouse performance score with modern web technologies
+- **Demonstrated strong problem-solving skills** through complex algorithm implementations and real-world applications
 
 ---
 
 ## 🔥 Featured Projects
 
-### **[finprep.](https://github.com/AliHamz10/finprep.)** - Finance Platform
-*Next.js 15, React 19, PostgreSQL, AI Integration*
-A comprehensive financial management application featuring AI-powered receipt scanning, multi-account support, real-time analytics, and secure transaction management. Built with modern architecture patterns and enterprise-grade security.
-
 ### **[Artificial Intelligence Lab](https://github.com/AliHamz10/Artificial-Intelligence-Lab-COMP-340L)** - AI Algorithm Collection
-*Python, NumPy, Algorithm Design*
-Complete implementation of 10 fundamental AI algorithms including A* search, Minimax with Alpha-Beta pruning, Monte Carlo Tree Search, and various optimization techniques. Demonstrates deep understanding of algorithmic complexity and problem-solving approaches.
+*Python, NumPy, Algorithm Design, Problem Solving*
+Complete implementation of 10 fundamental AI algorithms including A* search, Minimax with Alpha-Beta pruning, Monte Carlo Tree Search, and various optimization techniques. This comprehensive lab work demonstrates deep understanding of algorithmic complexity, search strategies, and practical AI implementation.
+
+### **[finprep.](https://github.com/AliHamz10/finprep.)** - AI-Enhanced Finance Platform
+*Next.js, React, PostgreSQL, Google Gemini AI Integration*
+A modern financial management application showcasing practical application of AI in fintech. Features include AI-powered receipt scanning using Google Gemini API, multi-account support, and real-time analytics. Demonstrates ability to integrate AI services into real-world applications.
 
 ### **[Personal Portfolio](https://github.com/AliHamz10/Personal-Portfolio)** - Professional Showcase
 *HTML5, CSS3, JavaScript, Responsive Design*
-Modern, minimalist portfolio website featuring dark theme design system, smooth animations, and mobile-first responsive architecture. Achieves 95+ performance score with optimized assets and semantic markup.
+Modern, minimalist portfolio website featuring dark theme design system, smooth animations, and mobile-first responsive architecture. Achieves 95+ performance score with optimized assets and semantic markup, showing attention to detail and modern web development practices.
 
 ---
 
@@ -72,15 +68,24 @@ Modern, minimalist portfolio website featuring dark theme design system, smooth 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliHamz10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliHamz10&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliHamz10&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamz10&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
 ---
 
-## 🌟 Professional Philosophy
+## 🌟 Academic Philosophy
 
-I believe in writing clean, maintainable code that not only solves immediate problems but also scales for future challenges. My approach combines technical rigor with practical problem-solving, ensuring that every solution is both elegant and robust. I'm passionate about AI and its potential to transform industries, particularly in fintech where intelligent automation can create significant value.
+I believe in the power of understanding fundamental concepts deeply before moving to advanced applications. My approach combines theoretical knowledge with hands-on implementation, ensuring that I not only know how algorithms work but can also implement them efficiently and analyze their performance. I'm particularly interested in how classical AI techniques can be applied to solve modern problems, and I enjoy exploring the intersection of traditional algorithms with contemporary machine learning approaches.
+
+---
+
+## 📚 Current Learning Focus
+
+- **Advanced Machine Learning**: Exploring neural networks and deep learning concepts
+- **Algorithm Optimization**: Improving efficiency and performance of existing implementations
+- **Real-world AI Applications**: Understanding how theoretical concepts translate to practical solutions
+- **Software Engineering Best Practices**: Writing clean, maintainable code and following industry standards
 
 ---
 
@@ -90,10 +95,10 @@ I believe in writing clean, maintainable code that not only solves immediate pro
 - **GitHub**: [AliHamz10](https://github.com/AliHamz10)
 - **Twitter**: [@alihamz_10](https://twitter.com/alihamz_10)
 
-*Open to collaboration on interesting projects, especially in AI, fintech, and open-source development.*
+*Open to collaboration on AI research projects, algorithm implementations, and learning opportunities. Always excited to discuss AI concepts and explore new problem-solving approaches.*
 
 ---
 
 <div align="center">
-  <em>Building the future, one commit at a time</em>
+  <em>Exploring the future of artificial intelligence, one algorithm at a time</em>
 </div>
