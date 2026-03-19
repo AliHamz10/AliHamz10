@@ -1,66 +1,118 @@
-# Ali Hamza
+<h1 align="center">Ali Hamza</h1>
 
-> **Exploring the frontiers of artificial intelligence and building intelligent solutions**  
-> *AI Transformation Head at Edversity, passionate about AI algorithms, machine learning, and innovative problem-solving*
+<p align="center">
+  <em>AI Transformation Head · Full-Stack Developer · Researcher</em>
+</p>
 
-I'm a dedicated Artificial Intelligence professional with a strong foundation in both theoretical concepts and practical implementation. Currently serving as AI Transformation Head at Edversity, I'm deeply interested in search algorithms, game theory, optimization techniques, and their real-world applications. My projects demonstrate hands-on experience with fundamental AI concepts, from implementing classic algorithms to exploring modern machine learning approaches.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alihamz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/AliHamz10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://twitter.com/alihamz_10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+---
+
+## 👤 About Me
+
+I am a dedicated Artificial Intelligence professional and full-stack developer with a strong foundation in both theoretical concepts and practical implementation. Currently serving as **AI Transformation Head at Edversity**, I design and deliver AI-driven educational experiences and build end-to-end intelligent systems.
+
+My academic and project portfolio spans classical AI algorithms, deep learning, natural language processing, blockchain infrastructure, computer networking, and modern web development — reflecting a commitment to continuous learning and real-world impact.
 
 ---
 
 ## 🚀 Quick Profile
 
-- **Current Role**: AI Transformation Head at Edversity
-- **Location**: Pakistan
-- **Focus Areas**: AI Algorithms, Machine Learning, Algorithm Design, Python Development
-- **Collaboration Interests**: AI research, open-source projects, algorithm optimization, academic collaboration
-- **Contact**: [LinkedIn](https://www.linkedin.com/in/alihamz/) | [GitHub](https://github.com/AliHamz10)
+| | |
+|---|---|
+| **Current Role** | AI Transformation Head, Edversity |
+| **Location** | Pakistan 🇵🇰 |
+| **Focus Areas** | AI/ML, Deep Learning, NLP, Blockchain, Full-Stack Development |
+| **Collaboration** | AI research, open-source projects, algorithm design, academic collaboration |
+| **Contact** | [LinkedIn](https://www.linkedin.com/in/alihamz/) · [GitHub](https://github.com/AliHamz10) · [Twitter](https://twitter.com/alihamz_10) |
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### **Programming & Development**
-- **Languages**: Python 3.7+, JavaScript (ES6+), HTML5, CSS3
-- **AI Libraries**: NumPy, Algorithm Implementation from scratch
-- **Web Technologies**: React, Next.js, Tailwind CSS
-- **Tools**: Git, GitHub, Jupyter Notebooks
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### **Artificial Intelligence & Algorithms**
-- **Search Algorithms**: A*, Breadth-First Search, Depth-First Search, Iterative Deepening DFS
-- **Game Theory**: Minimax Algorithm, Alpha-Beta Pruning, Monte Carlo Tree Search
-- **Optimization**: Hill Climbing, Beam Search, Expectimax
-- **Problem Solving**: 8-puzzle, Vacuum Cleaner World, Pathfinding
+### **AI / ML / Data Science**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### **Data Structures & Mathematics**
-- **Data Manipulation**: NumPy arrays, dictionaries, lists, matrices
-- **Mathematical Operations**: Statistical calculations, matrix operations, array reshaping
-- **Algorithm Analysis**: Performance evaluation, complexity analysis, optimization techniques
+- **Search Algorithms**: A\*, BFS, DFS, Iterative Deepening DFS, Beam Search
+- **Game Theory**: Minimax, Alpha-Beta Pruning, Monte Carlo Tree Search, Expectimax
+- **Optimization**: Hill Climbing, Gradient Descent, Hyperparameter Tuning
+- **Deep Learning**: Artificial Neural Networks, Backpropagation, Activation Functions
+- **NLP**: Sentiment Analysis, Text Pre-processing, Feature Extraction
+- **Blockchain**: Smart Contract Architecture, Distributed Ledger Design
+
+### **Web & Full-Stack**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏆 Academic & Project Highlights
+## 🏆 Highlights
 
-- **Implemented 10+ fundamental AI algorithms** from scratch, demonstrating deep understanding of algorithmic concepts
-- **Built comprehensive AI lab portfolio** covering search strategies, game theory, and optimization methods
-- **Developed finance management platform** integrating AI-powered receipt scanning and real-time analytics
-- **Created responsive portfolio website** achieving 95+ Lighthouse performance score with modern web technologies
-- **Demonstrated strong problem-solving skills** through complex algorithm implementations and real-world applications
+- **Implemented 10+ classical AI algorithms** from scratch — demonstrating mastery of search strategies, game theory, and optimization
+- **Built and trained Artificial Neural Networks** covering forward/backpropagation, activation functions, and performance benchmarking
+- **Applied NLP and Sentiment Analysis** techniques on real datasets using Python-based ML pipelines
+- **Designed a Blockchain Infrastructure** prototype exploring distributed consensus and ledger architecture in Python
+- **Developed a full-stack AI finance platform** (finprep.) with Google Gemini AI-powered receipt scanning and real-time analytics
+- **Built an AI Avatar (EVA)** — an interactive, JavaScript-powered conversational interface
+- **Developed a student-centric LMS** as an alternative to existing institutional tools, using modern JavaScript frameworks
+- **Completed coursework and labs in Computer Networks** covering protocols, packet analysis, and network simulation
+- **Created a personal portfolio website** achieving 95+ Lighthouse performance score with modern web standards
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
-### **[Artificial Intelligence Lab](https://github.com/AliHamz10/Artificial-Intelligence-Lab-COMP-340L)** - AI Algorithm Collection
-*Python, NumPy, Algorithm Design, Problem Solving*
-Complete implementation of 10 fundamental AI algorithms including A* search, Minimax with Alpha-Beta pruning, Monte Carlo Tree Search, and various optimization techniques. This comprehensive lab work demonstrates deep understanding of algorithmic complexity, search strategies, and practical AI implementation.
+### 🤖 AI & Machine Learning
 
-### **[finprep.](https://github.com/AliHamz10/finprep.)** - AI-Enhanced Finance Platform
-*Next.js, React, PostgreSQL, Google Gemini AI Integration*
-A modern financial management application showcasing practical application of AI in fintech. Features include AI-powered receipt scanning using Google Gemini API, multi-account support, and real-time analytics. Demonstrates ability to integrate AI services into real-world applications.
+| Repository | Description | Tech |
+|---|---|---|
+| [Artificial Intelligence Lab](https://github.com/AliHamz10/Artificial-Intelligence-Lab-COMP-340L) | 10+ fundamental AI algorithms: A\*, Minimax, MCTS, Hill Climbing, and more | Python, NumPy |
+| [Artificial Neural Networks Lab](https://github.com/AliHamz10/Artificial-Neural-Networks-Lab-COMP-341L) | ANN implementations — forward/backpropagation, activation functions, performance analysis | Python, Jupyter |
+| [Machine Learning Lab](https://github.com/AliHamz10/Machine-Learning-Lab-COMP-240L) | Supervised & unsupervised ML experiments, model evaluation, and visualizations | Python, Jupyter, scikit-learn |
+| [Sentiment Analysis](https://github.com/AliHamz10/Senitment-Analysis) | NLP pipeline for sentiment classification on real-world text datasets | Python |
 
-### **[Personal Portfolio](https://github.com/AliHamz10/Personal-Portfolio)** - Professional Showcase
-*HTML5, CSS3, JavaScript, Responsive Design*
-Modern, minimalist portfolio website featuring dark theme design system, smooth animations, and mobile-first responsive architecture. Achieves 95+ performance score with optimized assets and semantic markup, showing attention to detail and modern web development practices.
+### 🌐 Full-Stack & Web
+
+| Repository | Description | Tech |
+|---|---|---|
+| [finprep.](https://github.com/AliHamz10/finprep.) | AI-enhanced finance platform with receipt scanning, multi-account support, and analytics | Next.js, React, PostgreSQL, Gemini AI |
+| [EVA Avatar](https://github.com/AliHamz10/EVA-Avatar) | Interactive AI avatar — conversational interface powered by JavaScript | JavaScript |
+| [University LMS](https://github.com/AliHamz10/my-university-s-lms-is-shit) | Student-driven LMS redesign delivering the experience students actually want | JavaScript |
+| [Personal Portfolio](https://github.com/AliHamz10/Personal-Portfolio) | Minimalist portfolio with dark theme, smooth animations, and 95+ Lighthouse score | HTML5, CSS3, JavaScript |
+
+### 🔗 Blockchain & Networks
+
+| Repository | Description | Tech |
+|---|---|---|
+| [Blockchain Infrastructure](https://github.com/AliHamz10/Blockchain-Infrastructure) | Distributed ledger and consensus mechanism prototype | Python |
+| [Computer Networks Lab](https://github.com/AliHamz10/Computer-Networks-Lab-COMP-352L) | Lab experiments covering TCP/IP, socket programming, and network protocols | Python |
+| [Computer Networks](https://github.com/AliHamz10/Computer-Networks-COMP-352) | Coursework notes, assignments, and protocol implementations | — |
+
+### ⚙️ Dev & Config
+
+| Repository | Description | Tech |
+|---|---|---|
+| [.dot](https://github.com/AliHamz10/.dot) | Personal dotfiles and development environment configuration | TypeScript |
 
 ---
 
@@ -84,18 +136,18 @@ Modern, minimalist portfolio website featuring dark theme design system, smooth 
 
 ---
 
-## 🌟 Academic Philosophy
+## 🌟 Philosophy
 
-I believe in the power of understanding fundamental concepts deeply before moving to advanced applications. My approach combines theoretical knowledge with hands-on implementation, ensuring that I not only know how algorithms work but can also implement them efficiently and analyze their performance. I'm particularly interested in how classical AI techniques can be applied to solve modern problems, and I enjoy exploring the intersection of traditional algorithms with contemporary machine learning approaches.
+I believe in understanding foundational concepts deeply before advancing to higher-order abstractions. My approach marries rigorous theoretical study with hands-on implementation — whether that means coding a search algorithm from scratch, training a neural network, or architecting a distributed ledger. I am particularly interested in how classical AI and computer science principles underpin and enhance modern machine learning systems.
 
 ---
 
 ## 📚 Current Learning Focus
 
-- **Advanced Machine Learning**: Exploring neural networks and deep learning concepts
-- **Algorithm Optimization**: Improving efficiency and performance of existing implementations
-- **Real-world AI Applications**: Understanding how theoretical concepts translate to practical solutions
-- **Software Engineering Best Practices**: Writing clean, maintainable code and following industry standards
+- **Deep Learning**: Neural network architectures, CNNs, RNNs, and Transformers
+- **Natural Language Processing**: Advanced text classification, embeddings, and LLM fine-tuning
+- **Blockchain & Web3**: Smart contracts, decentralized applications, and consensus protocols
+- **Software Engineering**: Clean architecture, design patterns, and scalable system design
 
 ---
 
@@ -105,10 +157,10 @@ I believe in the power of understanding fundamental concepts deeply before movin
 - **GitHub**: [AliHamz10](https://github.com/AliHamz10)
 - **Twitter**: [@alihamz_10](https://twitter.com/alihamz_10)
 
-*Open to collaboration on AI research projects, algorithm implementations, and learning opportunities. Always excited to discuss AI concepts and explore new problem-solving approaches.*
+*Open to collaboration on AI research, open-source projects, algorithm design, and impactful engineering challenges. Always happy to discuss ideas, share knowledge, and build something meaningful together.*
 
 ---
 
 <div align="center">
-  <em>Exploring the future of artificial intelligence controlling u.</em>
+  <em>Building at the intersection of intelligence and engineering — one commit at a time.</em>
 </div>
