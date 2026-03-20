@@ -1,7 +1,7 @@
 <h1 align="center">Ali Hamza</h1>
 
 <p align="center">
-  <em>AI Transformation Leader · Full-Stack Engineer · Researcher</em>
+  <em>AI Transformation Head · Full-Stack Engineer · Researcher</em>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 - Prototyped a **blockchain ledger and consensus** in Python
 - Launched **finprep.** — AI finance platform with Gemini-powered receipt scanning and analytics
 - Created **EVA** (JS conversational avatar) and a **student-first LMS** prototype
-- Crafted a **portfolio** site with **95+ Lighthouse** performance scores
+- Crafted a **portfolio** site with **95+ Lighthouse** performance score
 
 ---
 
