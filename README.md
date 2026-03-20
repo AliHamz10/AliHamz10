@@ -50,7 +50,7 @@
 | [Artificial Intelligence Lab](https://github.com/AliHamz10/Artificial-Intelligence-Lab-COMP-340L) | Classical search, game, and optimization algorithms | Python, NumPy |
 | [Artificial Neural Networks Lab](https://github.com/AliHamz10/Artificial-Neural-Networks-Lab-COMP-341L) | ANN implementations with training and benchmarking | Python, Jupyter |
 | [Machine Learning Lab](https://github.com/AliHamz10/Machine-Learning-Lab-COMP-240L) | Supervised/unsupervised ML experiments and evaluation | Python, scikit-learn |
-| [Sentiment Analysis](https://github.com/AliHamz10/Senitment-Analysis) | NLP pipeline for sentiment classification | Python |
+| [Sentiment Analysis](https://github.com/AliHamz10/Sentiment-Analysis) | NLP pipeline for sentiment classification | Python |
 
 ### 🌐 Full-Stack & Web
 
