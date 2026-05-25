@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=ALI+HAMZA;AI+Transformation+Head;Founder+@+.dot;Researcher+in+SciML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=ALI+HAMZA;AI+Transformation+Head;Founder+@+.dot;Researcher+in+SciML" alt="ALI HAMZA - AI Transformation Head - Founder @ .dot - Researcher in SciML" />
 
   <p align="center">
-    <strong>B.S. Artificial Intelligence @ PAF-IAST (GPA 3.7/4.0)</strong><br>
-    <em>Focused on Reinforcement Learning, SciML, and Autonomous AI Systems</em>
+    <strong>B.S. Artificial Intelligence | Pak-Austria Fachhochschule (GPA 3.7/4.0)</strong><br>
+    <em>Specializing in Reinforcement Learning, Scientific Machine Learning, and Autonomous Systems</em>
   </p>
 
   <p align="center">
@@ -16,63 +16,63 @@
 
 ---
 
-### ⚡ Professional Summary
+### Professional Summary
 
-I am an AI Engineer and Researcher dedicated to building intelligent systems from first principles. Currently, I lead AI Transformation at **Edversity**, where I architect adaptive learning platforms, and I am the Founder of [**.dot**](https://github.com/AliHamz10), a vertical AI SaaS startup. My work spans from deep reinforcement learning and LLM fine-tuning to scientific research in **Black Hole Thermodynamics** using Physics-Informed Neural Networks.
-
----
-
-### 🏆 Key Achievements
-
-- **National Winner (1st Place):** AI Wrapper Competition 2025 (Backed by Ignite & National Technology Fund).
-- **AI Transformation Head:** Spearheading "Edversity Brain," a production-scale LLM-driven adaptive learning system.
-- **First-Principles Autograd:** Built a scalar-valued reverse-mode automatic differentiation engine from scratch (Micrograd style).
-- **Academic Excellence:** Dean's List student with a 3.7/4.0 GPA in B.S. Artificial Intelligence.
+AI Engineer and Researcher focused on architecting intelligent systems from first principles. Currently leading AI Transformation at Edversity, where I oversee the development of adaptive learning platforms, and serving as Founder and AI Architect at .dot, a vertical AI SaaS venture. Research expertise includes applying Physics-Informed Neural Networks to model Black Hole Thermodynamics.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Key Achievements
 
-| Category | Skills & Technologies |
+- **National Winner (1st Place):** AI Wrapper Competition 2025 (Ignite and National Technology Fund).
+- **AI Transformation Head:** Architecting Edversity Brain, a production-scale LLM-driven adaptive learning system.
+- **First-Principles Engineering:** Developed a scalar-valued reverse-mode automatic differentiation engine and MLP library from scratch.
+- **Academic Excellence:** Dean's List of Honors every semester with a 3.7/4.0 GPA in Artificial Intelligence.
+
+---
+
+### Technical Arsenal
+
+| Domain | Technologies and Methods |
 | :--- | :--- |
 | **Artificial Intelligence** | Deep RL (PPO, DQN, A3C), LLM Fine-tuning (Llama, Mistral), RAG Pipelines, CNNs, Transformers, Computer Vision |
-| **Engineering** | Python, TypeScript/JavaScript, Java, Dart, SQL |
+| **Core Engineering** | Python, TypeScript, JavaScript, Java, Dart, SQL |
 | **Frameworks** | PyTorch, TensorFlow, Next.js (App Router), Tailwind CSS, Django, Flask, Flutter |
-| **Tools & Infrastructure** | Supabase, PostgreSQL, Prisma, Linux, Git, Distributed Computing |
+| **Infrastructure** | Supabase, PostgreSQL, Prisma, Linux, Git, Distributed Computing |
 
 ---
 
-### 🔬 Research & Featured Projects
+### Research and Selected Projects
 
-#### 🌌 [Black Hole Thermodynamics via Machine Learning](https://github.com/AliHamz10)
-*Research Paper (In Progress)*
-- Leveraging **Physics-Informed Neural Networks (PINNs)** to model thermodynamic properties.
-- Exploring the intersection of high-energy physics and data-driven scientific discovery.
+#### Black Hole Thermodynamics via Machine Learning
+*Research Paper in Progress*
+- Applying Physics-Informed Neural Networks (PINNs) to model thermodynamic properties in high-energy physics.
+- Investigating data-driven scientific modeling for complex gravitational systems.
 
-#### 🔢 [Micrograd: Scalar Autograd Engine](https://github.com/AliHamz10)
+#### [Micrograd: Scalar Autograd Engine](https://github.com/AliHamz10/Artificial-Neural-Networks-Lab-COMP-341L)
 *Python, First Principles*
-- Implemented a complete reverse-mode automatic differentiation engine and an MLP library from scratch.
-- Visualized learned decision boundaries on complex datasets without using high-level ML libraries.
+- Implemented a complete reverse-mode automatic differentiation engine and MLP library without external ML dependencies.
+- Analyzed and visualized decision boundaries on complex datasets to validate gradient computation accuracy.
 
-#### 🎓 [FinPrep — AI-Powered Finance Platform](https://github.com/AliHamz10/finprep.)
+#### [FinPrep: AI-Powered Finance Platform](https://github.com/AliHamz10/finprep)
 *Next.js, RAG, Fine-tuned LLMs*
-- Built a full-stack platform integrating RAG pipelines and fine-tuned open-source LLMs for financial Q&A.
-- Designed a scalable architecture using Supabase and Prisma for real-time insights.
+- Developed a full-stack platform featuring RAG pipelines and domain-specific LLM fine-tuning for financial analytics.
+- Engineered a scalable backend utilizing Supabase and Prisma for real-time data processing.
 
 ---
 
-### 💼 Experience & Leadership
+### Experience and Leadership
 
-- **Founder & AI Architect | .dot** (2024 – Present)
-  - Architecting AI-native enterprise platforms with autonomous agents and domain-specific RAG systems.
+- **Founder and AI Architect | .dot** (2024 – Present)
+  - Designing AI-native enterprise platforms with autonomous workflows and domain-specific knowledge systems.
 - **AI Transformation Head | Edversity** (2025 – Present)
-  - Leading organization-wide AI strategy and delivering intelligent content recommendation pipelines.
+  - Leading organizational AI strategy and implementing intelligent content recommendation frameworks.
 - **Managing Director (Deputy) | GDG on Campus PAF-IAST** (2023 – 2024)
-  - Led a community of 50+ developers; organized workshops on applied ML and Google technologies.
+  - Managed a 50+ member developer community and organized workshops on applied machine learning.
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliHamz10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Ali Hamza's GitHub stats" />
@@ -81,16 +81,16 @@ I am an AI Engineer and Researcher dedicated to building intelligent systems fro
 
 ---
 
-### 🎓 Education & Certifications
+### Education and Certifications
 
 - **B.S. Artificial Intelligence**, Pak-Austria Fachhochschule (Expected 2027)
-  - **GPA: 3.7 / 4.0** | Dean's List of Honors (Every Semester).
+  - GPA: 3.7 / 4.0 | Dean's List of Honors (All Semesters).
 - **Deep Learning Specialization**, DeepLearning.AI (Andrew Ng).
 - **Advanced Deployment Scenarios with TensorFlow**, DeepLearning.AI.
 
 <div align="center">
   <br />
-  <a href="https://www.linkedin.com/in/alihamz"><strong>Let's Connect</strong></a>
+  <a href="https://www.linkedin.com/in/alihamz"><strong>Connect on LinkedIn</strong></a>
   <br />
-  <sub>Propelling AI from first principles to production.</sub>
+  <sub>Propelling Artificial Intelligence from First Principles to Production</sub>
 </div>
