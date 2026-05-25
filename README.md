@@ -1,104 +1,96 @@
-<h1 align="center">Ali Hamza</h1>
-
-<p align="center">
-  <em>AI Transformation Head · Full-Stack Engineer · Researcher</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alihamz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/AliHamz10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://twitter.com/alihamz_10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
-
----
-
-## Snapshot
-
-- **AI Transformation Head, Edversity** — designing AI-native learning experiences and intelligent systems
-- **Based in Pakistan 🇵🇰** — open to AI research, open-source, and product collaborations
-- **Focus**: AI/ML, deep learning, NLP, blockchain, and full-stack product delivery
-- **Contact**: [LinkedIn](https://www.linkedin.com/in/alihamz/) · [GitHub](https://github.com/AliHamz10) · [Twitter](https://twitter.com/alihamz_10)
-
----
-
-## Expertise
-
-- **AI / ML**: NumPy, Jupyter, scikit-learn; search (A\*, Minimax, MCTS), optimization, ANN training, NLP pipelines and sentiment analysis
-- **Engineering**: Python, TypeScript/JavaScript, Next.js, React, Tailwind CSS, PostgreSQL; clean architecture and API design
-- **Tools**: Git, GitHub, VS Code
-
----
-
-## Highlights
-
-- Delivered **10+ classical AI algorithms** covering search, game theory, and optimization
-- Built and benchmarked **neural networks** end-to-end (forward/backpropagation, activation functions)
-- Shipped **NLP sentiment classifier** on production-like datasets
-- Prototyped a **blockchain ledger and consensus** in Python
-- Launched **finprep.** — AI finance platform with Gemini-powered receipt scanning and analytics
-- Created **EVA** (JS conversational avatar) and a **student-first LMS** prototype
-- Crafted a **portfolio** site with **95+ Lighthouse** performance score
-
----
-
-## Selected Work
-
-### 🤖 AI & Machine Learning
-
-| Repository | Description | Tech |
-|---|---|---|
-| [Artificial Intelligence Lab](https://github.com/AliHamz10/Artificial-Intelligence-Lab-COMP-340L) | Classical search, game, and optimization algorithms | Python, NumPy |
-| [Artificial Neural Networks Lab](https://github.com/AliHamz10/Artificial-Neural-Networks-Lab-COMP-341L) | ANN implementations with training and benchmarking | Python, Jupyter |
-| [Machine Learning Lab](https://github.com/AliHamz10/Machine-Learning-Lab-COMP-240L) | Supervised/unsupervised ML experiments and evaluation | Python, scikit-learn |
-| [Sentiment Analysis](https://github.com/AliHamz10/Sentiment-Analysis) | NLP pipeline for sentiment classification | Python |
-
-### 🌐 Full-Stack & Web
-
-| Repository | Description | Tech |
-|---|---|---|
-| [finprep.](https://github.com/AliHamz10/finprep.) | AI-enhanced finance platform with receipt scanning and analytics | Next.js, React, PostgreSQL, Gemini AI |
-| [EVA Avatar](https://github.com/AliHamz10/EVA-Avatar) | Conversational AI avatar interface | JavaScript |
-| [University LMS](https://github.com/AliHamz10/my-university-s-lms-is-shit) | Student-first LMS prototype | JavaScript |
-| [Personal Portfolio](https://github.com/AliHamz10/Personal-Portfolio) | Minimalist portfolio with 95+ Lighthouse score | HTML5, CSS3, JavaScript |
-
-### 🔗 Blockchain & Networks
-
-| Repository | Description | Tech |
-|---|---|---|
-| [Blockchain Infrastructure](https://github.com/AliHamz10/Blockchain-Infrastructure) | Distributed ledger and consensus prototype | Python |
-| [Computer Networks Lab](https://github.com/AliHamz10/Computer-Networks-Lab-COMP-352L) | TCP/IP labs, socket programming, protocol analysis | Python |
-
-### ⚙️ Dev & Config
-
-| Repository | Description | Tech |
-|---|---|---|
-| [.dot](https://github.com/AliHamz10/.dot) | Personal dotfiles and development environment setup | TypeScript |
-
----
-
-## Current Focus
-
-- Deep learning architectures, evaluation, and deployment
-- Advanced NLP and LLM fine-tuning
-- Scalable systems, web platforms, and Web3 experiments
-
----
-
-## GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHamz10&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&ring_color=ff6b6b" alt="GitHub Stats" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=ALI+HAMZA;AI+Transformation+Head;Founder+@+.dot;Researcher+in+SciML" alt="ALI HAMZA - AI Transformation Head - Founder @ .dot - Researcher in SciML" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHamz10&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=ffffff" alt="GitHub Streak" />
+  <p align="center">
+    <strong>B.S. Artificial Intelligence | Pak-Austria Fachhochschule (GPA 3.7/4.0)</strong><br>
+    <em>Specializing in Reinforcement Learning, Scientific Machine Learning, and Autonomous Systems</em>
+  </p>
+
+  <p align="center">
+    <a href="mailto:alihamzatk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/alihamz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/AliHamz10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://alihamz10.tech"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  </p>
 </div>
 
 ---
 
-## Let's Connect
+### Professional Summary
 
-- **LinkedIn**: [Ali Hamza](https://www.linkedin.com/in/alihamz/)
-- **GitHub**: [AliHamz10](https://github.com/AliHamz10)
-- **Twitter**: [@alihamz_10](https://twitter.com/alihamz_10)
-- Open to collaboration on AI research, open-source projects, and product engineering challenges.
+AI Engineer and Researcher focused on architecting intelligent systems from first principles. Currently leading AI Transformation at Edversity, where I oversee the development of adaptive learning platforms, and serving as Founder and AI Architect at .dot, a vertical AI SaaS venture. Research expertise includes applying Physics-Informed Neural Networks to model Black Hole Thermodynamics.
+
+---
+
+### Key Achievements
+
+- **National Winner (1st Place):** AI Wrapper Competition 2025 (Ignite and National Technology Fund).
+- **AI Transformation Head:** Architecting Edversity Brain, a production-scale LLM-driven adaptive learning system.
+- **First-Principles Engineering:** Developed a scalar-valued reverse-mode automatic differentiation engine and MLP library from scratch.
+- **Academic Excellence:** Dean's List of Honors every semester with a 3.7/4.0 GPA in Artificial Intelligence.
+
+---
+
+### Technical Arsenal
+
+| Domain | Technologies and Methods |
+| :--- | :--- |
+| **Artificial Intelligence** | Deep RL (PPO, DQN, A3C), LLM Fine-tuning (Llama, Mistral), RAG Pipelines, CNNs, Transformers, Computer Vision |
+| **Core Engineering** | Python, TypeScript, JavaScript, Java, Dart, SQL |
+| **Frameworks** | PyTorch, TensorFlow, Next.js (App Router), Tailwind CSS, Django, Flask, Flutter |
+| **Infrastructure** | Supabase, PostgreSQL, Prisma, Linux, Git, Distributed Computing |
+
+---
+
+### Research and Selected Projects
+
+#### Black Hole Thermodynamics via Machine Learning
+*Research Paper in Progress*
+- Applying Physics-Informed Neural Networks (PINNs) to model thermodynamic properties in high-energy physics.
+- Investigating data-driven scientific modeling for complex gravitational systems.
+
+#### [Micrograd: Scalar Autograd Engine](https://github.com/AliHamz10/Artificial-Neural-Networks-Lab-COMP-341L)
+*Python, First Principles*
+- Implemented a complete reverse-mode automatic differentiation engine and MLP library without external ML dependencies.
+- Analyzed and visualized decision boundaries on complex datasets to validate gradient computation accuracy.
+
+#### [FinPrep: AI-Powered Finance Platform](https://github.com/AliHamz10/finprep)
+*Next.js, RAG, Fine-tuned LLMs*
+- Developed a full-stack platform featuring RAG pipelines and domain-specific LLM fine-tuning for financial analytics.
+- Engineered a scalable backend utilizing Supabase and Prisma for real-time data processing.
+
+---
+
+### Experience and Leadership
+
+- **Founder and AI Architect | .dot** (2024 – Present)
+  - Designing AI-native enterprise platforms with autonomous workflows and domain-specific knowledge systems.
+- **AI Transformation Head | Edversity** (2025 – Present)
+  - Leading organizational AI strategy and implementing intelligent content recommendation frameworks.
+- **Managing Director (Deputy) | GDG on Campus PAF-IAST** (2023 – 2024)
+  - Managed a 50+ member developer community and organized workshops on applied machine learning.
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliHamz10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Ali Hamza's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHamz10&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
+</p>
+
+---
+
+### Education and Certifications
+
+- **B.S. Artificial Intelligence**, Pak-Austria Fachhochschule (Expected 2027)
+  - GPA: 3.7 / 4.0 | Dean's List of Honors (All Semesters).
+- **Deep Learning Specialization**, DeepLearning.AI (Andrew Ng).
+- **Advanced Deployment Scenarios with TensorFlow**, DeepLearning.AI.
+
+<div align="center">
+  <br />
+  <a href="https://www.linkedin.com/in/alihamz"><strong>Connect on LinkedIn</strong></a>
+  <br />
+  <sub>Propelling Artificial Intelligence from First Principles to Production</sub>
+</div>
